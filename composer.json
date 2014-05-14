@@ -1,5 +1,5 @@
 {
-    "name": "/Applications/MAMP/htdocs/cake-multi/app5/Plugin/Admin",
+    "name": "myorg/bootstrap",
     "version": "1.0.0",
     "type": "cakephp-plugin"
 }
