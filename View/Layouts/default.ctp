@@ -19,7 +19,7 @@
         <meta charset="utf-8">
         <title><?php echo isset($pluralHumanName) ? str_replace('Admin ', '', $pluralHumanName) . ' - ' : '' ?><?php echo __('Admin'); ?></title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" rel="stylesheet">
+        <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
         <?php echo $this->Html->css('/Admin/css/bootstrap-wysihtml5-0.0.2'); ?>
         <?php echo $this->Html->css('/Admin/css/datepicker'); ?>
         <?php echo $this->Html->css('/Admin/css/styles'); ?>
